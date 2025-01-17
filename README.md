@@ -1,5 +1,5 @@
 # CarDealershipApp
-A Java application for managing a dealership car sales database
+A Java application for managing a dealership's sales database
 
 # Car Dealership App
 On going Java-based application to manage and analyze car sales data and inventory using file parsing and a MySQL database.
