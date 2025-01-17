@@ -64,5 +64,5 @@ The project uses a db.properties file to store the database connection informati
 
 To setup the dabase connection:
 
-1. Rename the db.databasefile.example to db.databasefile
+1. Rename the db.properties.example to db.properties
 2. Replace the information in the file with your own credentials to access your database. 
