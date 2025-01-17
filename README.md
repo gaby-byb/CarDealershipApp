@@ -57,3 +57,12 @@ Steps
   Configuring database connections in Java projects.
 	
   Implementing security best practices for handling sensitive data.
+
+# DataBase Setup
+
+The project uses a db.properties file to store the database connection information (User, password..). The file was excluded for security reasons.
+
+To setup the dabase connection:
+
+1. Rename the db.databasefile.example to db.databasefile
+2. Replace the information in the file with your own credentials to access your database. 
