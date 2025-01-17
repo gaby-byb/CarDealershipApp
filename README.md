@@ -65,4 +65,9 @@ The project uses a db.properties file to store the database connection informati
 To setup the dabase connection:
 
 1. Rename the db.properties.example to db.properties
-2. Replace the information in the file with your own credentials to access your database. 
+2. Replace the information in the file with your own credentials to access your database.
+
+### 1. Schema File
+Use the provided `schema.sql` file to set up the database:
+```bash
+mysql -u username -p < sql/schema.sql
